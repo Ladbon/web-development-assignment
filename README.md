@@ -4,11 +4,11 @@
 
 This is a small assignment which is based on a simple task:
 
-* Create a rudimentary TODO web app.
+* Create a rudimentary TODO web app
 
 The assignment code includes some boilerplate to get the candidate running.
 
-The assignment should not have to last more than an hour, but could take longer, please spend more if you find it desirable.
+The assignment should not have to last more than an hour, but could take longer - please spend more if you find it desirable.
 
 The assignment can be completed at home or pair-programmed during the interview.
 
